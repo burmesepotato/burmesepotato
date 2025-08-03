@@ -1,6 +1,6 @@
 # 👋 Hello, I'm burmesepotato! 🌱⚡
 
-![Welcome GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZ4aDBlNnZkZXkxNDNkZWpqcXQ4MjU3M2dxMXFtd21lbmN5amg0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.gif)
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZ4aDBlNnZkZXkxNDNkZWpqcXQ4MjU3M2dxMXFtd21lbmN5amg0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.gif" alt="Cat Typing GIF" width="300" height="auto" />
 
 I love 🌱 learning  🏃 running  🌍 exploring  🥥 sago & games 🎮✨
 
